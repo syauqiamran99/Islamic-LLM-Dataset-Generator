@@ -125,7 +125,6 @@ Islamic-LLM-Dataset-Generator/
 
 ![App Demo](assets/demo.gif)
 
-
 🪪 License
 
 MIT License
